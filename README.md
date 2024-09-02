@@ -30,7 +30,30 @@
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyajaiswal17&theme=black-ice&background=000000&stroke=0000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="shreyajaiswal17" /></p>
  
  <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyajaiswal17&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="shreyajaiswal17" /></p>
- 
+
+
+<h2 align="center">Profile Stats</h2>
+
+
+<a href="https://github.com/shreyajaiswal17">
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyajaiswal17&theme=algolia"/>
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyajaiswal17&theme=algolia" />
+   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=shreyajaiswal17&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
+    <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyajaiswal17&theme=algolia&hide_border=true&stroke=0000"  />
+</a>
+
+<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyajaiswal17&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
+
+
+
+  ##  GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shreyajaiswal17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shreyajaiswal17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
 </div>
 
 
