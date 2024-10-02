@@ -44,6 +44,7 @@
 
 <img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyajaiswal17&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
 
+[![An image of @shreyajaiswal17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyajaiswal17)](https://holopin.io/@shreyajaiswal17)
 
 
   ##  GitHub Trophies
