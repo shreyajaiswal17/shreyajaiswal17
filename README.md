@@ -29,7 +29,7 @@
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyajaiswal17&theme=black-ice&background=000000&stroke=0000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="shreyajaiswal17" /></p>
  
- <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyajaiswal17&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="shreyajaiswal17" /></p>
+
 
 
 <h2 align="center">Profile Stats</h2>
