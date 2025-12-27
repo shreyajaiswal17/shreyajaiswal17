@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **personal projects for enhancing my skills**
 
-- 🌱 I’m currently learning **Backend Development**
+<!-- - 🌱 I’m currently learning DSA and DevOps. -->
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
 
