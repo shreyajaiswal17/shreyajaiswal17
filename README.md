@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shreya </h1>
-<h3 align="center">A passionate Developer from Delhi, India</h3>
+<h3 align="center">A passionate AI Developer from Delhi, India</h3>
 <div align="center">
   <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 </div>
@@ -10,7 +10,7 @@
 
 <!-- - 🌱 I’m currently learning DSA and DevOps. -->
 
-- 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
+- 👯 I’m looking to collaborate on **Full Stack Web Development Projects & AI-powered Developer Tools**
 
 - 📫 How to reach me **jaisshreya17@gmail.com**
 
@@ -30,7 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,express,firebase,git,html,java,js,mongodb,mysql,nodejs,python,react" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,mongodb,mysql,css,express,firebase,git,html,java,nodejs,github,postman" />
 </p>
 
 <div align="center">
